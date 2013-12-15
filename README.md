@@ -1,8 +1,6 @@
 # mopads-translations
 Language translations for JumpPad++!
 
-This repository is simply made to hold all of the language translations (*.lang) files for the Minecraft mod JumpPad++!
-
 ## Contributing
 1. Fork it
 2. Create your feature branch (`git checkout -b my-new-feature`)
