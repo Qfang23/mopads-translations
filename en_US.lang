@@ -1,0 +1,17 @@
+itemGroup.mopads=Jump Pad++
+
+tile.pad.acceleration.name=Acceleration Pad
+tile.pad.annihilation.name=Annihilation Pad
+tile.pad.aqua.name=Aqua Pad
+tile.pad.ballistic.name=Ballistic Pad
+tile.pad.booster.name=Booster Pad
+tile.pad.end.name=End Pad
+tile.pad.impact.name=Impact Landing Pad
+tile.pad.incineration.name=Incineration Pad
+tile.pad.jump.name=Jump Pad
+tile.pad.jump+.name=Jump Pad+
+tile.pad.jump++.name=Jump Pad++
+tile.pad.portal.name=Portal Pad
+tile.pad.regeneration.name=Regeneration Pad
+tile.pad.slow.name=Slow Pad
+tile.pad.speed.name=Speed Pad
