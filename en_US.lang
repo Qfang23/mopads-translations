@@ -1,4 +1,4 @@
-itemGroup.mopads=Jump Pad++
+itemGroup.pad=Jump Pad++
 
 tile.pad.acceleration.name=Acceleration Pad
 tile.pad.annihilation.name=Annihilation Pad
