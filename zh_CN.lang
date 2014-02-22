@@ -1,0 +1,17 @@
+itemGroup.pad=跳跃垫++
+
+tile.pad.acceleration.name=推进垫
+tile.pad.annihilation.name=伤害垫
+tile.pad.aqua.name=净水垫
+tile.pad.ballistic.name=爆炸垫
+tile.pad.booster.name=上升垫
+tile.pad.end.name=末影垫
+tile.pad.impact.name=浮空垫
+tile.pad.incineration.name=焚烧垫
+tile.pad.jump.name=跳跃垫
+tile.pad.jump+.name=跳跃垫+
+tile.pad.jump++.name=跳跃垫++
+tile.pad.portal.name=地狱垫
+tile.pad.regeneration.name=再生垫
+tile.pad.slow.name=减速垫
+tile.pad.speed.name=加速垫
